@@ -1,7 +1,7 @@
 # simProvider-name-of-anyNumber-using-python
 
 # Modules needed :
-1. phonenumbers
+>1. phonenumbers:
 `pip install phonenumbers`
 
 # Instruction:
