@@ -2,7 +2,7 @@
 
 # Modules needed :
 >1. phonenumbers:
-`pip install phonenumbers`
+*`pip install phonenumbers`
 
 # Instruction:
 * you will need to add a phone number in test.py file
